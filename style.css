@@ -80,7 +80,7 @@ button:hover {
     body {
         font-size: 12px;
     }
-    span {
+    #rgbColor {
         font-size: 150%;
     }
 }
